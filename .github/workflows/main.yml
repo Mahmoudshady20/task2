@@ -21,3 +21,4 @@ jobs:
           push: true
           tags: shady20/nginx:latest
           
+
